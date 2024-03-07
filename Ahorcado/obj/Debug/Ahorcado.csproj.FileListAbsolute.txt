@@ -1,0 +1,28 @@
+C:\Users\isaac\Desktop\app android\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\isaac\Desktop\app android\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\isaac\Desktop\app android\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\app android\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\isaac\Desktop\app android\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\isaac\Desktop\app android\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\isaac\Desktop\app android\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\app android\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\isaac\Desktop\app android\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Computo\Desktop\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Computo\Desktop\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Computo\Desktop\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\Computo\Desktop\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\Computo\Desktop\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Computo\Desktop\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\Computo\Desktop\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Computo\Desktop\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Computo\Desktop\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\canse\OneDrive\escrito\Escritorio\6 semestre\Ahorcado (1)\Ahorcado\obj\Debug\Ahorcado.pdb
