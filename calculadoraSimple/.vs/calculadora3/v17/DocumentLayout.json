@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\calculadoraSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{210BC976-3CB7-4397-98AD-00DD692AB630}|calculadora3.csproj|C:\\Users\\isaac\\Desktop\\app android\\Martin\\calculadoraSimple\\presentacion\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{210BC976-3CB7-4397-98AD-00DD692AB630}|calculadora3.csproj|solutionrelative:presentacion\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210BC976-3CB7-4397-98AD-00DD692AB630}|calculadora3.csproj|c:\\users\\isaac\\desktop\\app android\\martin\\calculadorasimple\\presentacion\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210BC976-3CB7-4397-98AD-00DD692AB630}|calculadora3.csproj|solutionrelative:presentacion\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\calculadoraSimple\\Presentacion\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\calculadoraSimple\\Presentacion\\Calculadora.cs",
+              "RelativeToolTip": "Presentacion\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:56:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\calculadoraSimple\\Presentacion\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\calculadoraSimple\\Presentacion\\Calculadora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Calculadora.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T23:14:24.455Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
