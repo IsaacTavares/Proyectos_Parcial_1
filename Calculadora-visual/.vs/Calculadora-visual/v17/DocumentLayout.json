@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|solutionrelative:Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|c:\\users\\isaac\\desktop\\app android\\martin\\calculadora-visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|solutionrelative:Form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B595B47B-C562-4A97-A7C5-30D8F4D18882}|Calculadora-visual.csproj|solutionrelative:Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:33:03.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:32:53.947Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:31:11.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:30:27.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-02-29T00:30:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\app android\\Martin\\Calculadora-visual\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T00:30:18.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

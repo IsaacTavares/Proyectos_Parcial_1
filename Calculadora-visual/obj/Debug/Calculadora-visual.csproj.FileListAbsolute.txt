@@ -1,0 +1,20 @@
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\bin\Debug\Calculadora-visual.exe.config
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\bin\Debug\Calculadora-visual.exe
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\bin\Debug\Calculadora-visual.pdb
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.csproj.AssemblyReference.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora_visual.Form1.resources
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora_visual.Properties.Resources.resources
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.csproj.GenerateResource.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.csproj.CoreCompileInputs.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.exe
+C:\Users\canse\OneDrive\escrito\Escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.pdb
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\bin\Debug\Calculadora-visual.exe.config
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\bin\Debug\Calculadora-visual.exe
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\bin\Debug\Calculadora-visual.pdb
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.csproj.AssemblyReference.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora_visual.Form1.resources
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora_visual.Properties.Resources.resources
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.csproj.GenerateResource.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.csproj.CoreCompileInputs.cache
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.exe
+C:\Users\canse\OneDrive\escrito\Escritorio\Todo del escritorio\SEmestre 6\programación Mart\C#\Calculadora-visual\obj\Debug\Calculadora-visual.pdb
