@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="aplicaciondesigngato.MainPage"
+             BackgroundColor="Transparent" AnchorX="0" AnchorY="0">
+    
+    <!--Degradado del fondo-->
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="#FBD419" Offset="0.0" />
+            <GradientStop Color="#A7F432" Offset="0.5" />
+            <GradientStop Color="#1AA7EC" Offset="1.0" />
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <!--Contenido de la aplicación-->
+    <ScrollView>
+        <VerticalStackLayout Padding="10,10">
+
+            <!--TITULO DEL JUEGO-->
+            <StackLayout Orientation="Horizontal" WidthRequest="165" HeightRequest="60" Padding="0,0" BackgroundColor="Transparent" Margin="10">
+                <Image Source="titulo.png" Aspect="AspectFill" HorizontalOptions="Center" VerticalOptions="Center" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"  Spacing="6" Padding="0,0" BackgroundColor="Transparent" HorizontalOptions="Center" VerticalOptions="Center" Margin="10">
+                <!--Espacio para el puntaje del personaje (Mario)-->
+                <StackLayout Orientation="Horizontal" WidthRequest="165" HeightRequest="55" Spacing="6" Padding="0,0" BackgroundColor="Transparent">
+                    <Image Source="mariopuntos.png" Aspect="AspectFill" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label x:Name="lblMarioScore" TextColor="#964B00" VerticalOptions="Center" HorizontalOptions="Start" Margin="-40" FontSize="Small" FontAttributes="Bold"/>
+                </StackLayout>
+                <!--Espacio para el puntaje del personaje (Yoshi)-->
+                <StackLayout Orientation="Horizontal" WidthRequest="165" HeightRequest="55" Spacing="6" Padding="0,0" BackgroundColor="Transparent">
+                    <Image Source="yoshipuntos.png" Aspect="AspectFill" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label x:Name="lblYoshiScore" TextColor="#964B00" VerticalOptions="Center" HorizontalOptions="Start" Margin="-43" FontSize="Small" FontAttributes="Bold"/>
+                </StackLayout>
+
+            </StackLayout>
+            <!--Espacio para el puntaje de empates-->
+            <StackLayout Orientation="Horizontal" WidthRequest="165" HeightRequest="60" Spacing="6" Padding="0,0" BackgroundColor="Transparent" Margin="10">
+                <Image Source="empate.png" Aspect="AspectFill" HorizontalOptions="Center" VerticalOptions="Center" />
+                <Label x:Name="lblEmpateScore" TextColor="#964B00" VerticalOptions="Center" HorizontalOptions="Start" Margin="-39" FontSize="Small" FontAttributes="Bold"/>
+            </StackLayout>
+
+            <!--///////////////////////////////////////////////////////-->
+            <!--DEFINICION DE LA ESTRUCTURA DEL TABLERO DEL GATO (GRID)-->
+            <!--///////////////////////////////////////////////////////-->
+            <Grid ColumnSpacing="6" RowSpacing="6" VerticalOptions="Center" HorizontalOptions="Center">
+                <!--Definición de las filas del tablero-->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="100"/>
+                </Grid.RowDefinitions>
+
+                <!--Definición de las columnas del tablero-->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                </Grid.ColumnDefinitions>
+
+                <!--CARACTERISTICAS Y UBICACION DE CADA BOTON DEL TABLERO-->
+                <ImageButton Source="estrella.jpg" Grid.Column="0" Grid.Row="0" Clicked="BotonGatoUno" CornerRadius="10" BackgroundColor="White" x:Name="BtnUnoGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="0" Grid.Row="1" Clicked="BotonGatoDos" CornerRadius="10" BackgroundColor="White" x:Name="BtnDosGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="0" Grid.Row="2" Clicked="BotonGatoTres" CornerRadius="10" BackgroundColor="White" x:Name="BtnTresGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="1" Grid.Row="0" Clicked="BotonGatoCuatro" CornerRadius="10" BackgroundColor="White" x:Name="BtnCuatroGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="1" Grid.Row="1" Clicked="BotonGatoCinco" CornerRadius="10" BackgroundColor="White" x:Name="BtnCincoGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="1" Grid.Row="2" Clicked="BotonGatoSeis" CornerRadius="10" BackgroundColor="White" x:Name="BtnSeisGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="2" Grid.Row="0" Clicked="BotonGatoSiete" CornerRadius="10" BackgroundColor="White" x:Name="BtnSieteGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="2" Grid.Row="1" Clicked="BotonGatoOcho" CornerRadius="10" BackgroundColor="White" x:Name="BtnOchoGato" />
+                <ImageButton Source="estrella.jpg" Grid.Column="2" Grid.Row="2" Clicked="BotonGatoNueve" CornerRadius="10" BackgroundColor="White" x:Name="BtnNueveGato" />
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
