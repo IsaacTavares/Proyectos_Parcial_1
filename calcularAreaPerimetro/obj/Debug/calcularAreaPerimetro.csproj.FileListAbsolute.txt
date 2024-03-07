@@ -1,0 +1,6 @@
+C:\Users\isaac\Desktop\app android\calcularAreaPerimetro\bin\Debug\calcularAreaPerimetro.exe
+C:\Users\isaac\Desktop\app android\calcularAreaPerimetro\bin\Debug\calcularAreaPerimetro.pdb
+C:\Users\isaac\Desktop\app android\calcularAreaPerimetro\obj\Debug\calcularAreaPerimetro.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\app android\calcularAreaPerimetro\obj\Debug\calcularAreaPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\app android\calcularAreaPerimetro\obj\Debug\calcularAreaPerimetro.exe
+C:\Users\isaac\Desktop\app android\calcularAreaPerimetro\obj\Debug\calcularAreaPerimetro.pdb
